@@ -20,6 +20,6 @@ project artifacts. Instructions:
    * `dockerhub-repository` contains the docker username, docker
      repository name, and tag for reproducing your project.
    * `project-website-url` contains the _url_ to your project website.
-   * `project-website-code` cotnains the github url to your project
+   * `project-website-code` contains the `github` url to your project
      website's code.
 5. Turn in the forked repository to Gradescope.
