@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Graph-Based Product Recommendation
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+Recommender systems are important, revenue-generating technologies in many of the services today, providing recommendations for social, product, and other networks. However, the majority of existing recommender system methods use metrics of similarity to recommend other nodes through content-based and collaborative filtering approaches, which do not take into account the graph structure of the relationships between the nodes. A graph-based recommender system then is able to utilize graph relationships to improve node embeddings for recommendation in a way that conventional recommender systems cannot. Inspired by PinSage, we explore an unsupervised graph-based recommendation method that can take advantage of the relationships between nodes, in addition to the text and image features, and generate more accurate and robust embeddings for Amazon product recommendation.
