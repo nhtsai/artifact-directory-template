@@ -3,5 +3,5 @@
     "project-repository": "https://github.com/nhtsai/graph-rec.git",
     "dockerhub-repository": "nhtsai/graph-rec:latest",
     "project-website-url": "https://nhtsai.github.io/graph-rec/",
-    "project-website-code": "https://github.com/nhtsai/graph-rec.git" // on the gh-pages branch
+    "project-website-code": "https://github.com/nhtsai/graph-rec.git"
 }
